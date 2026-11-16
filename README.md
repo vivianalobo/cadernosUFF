@@ -113,6 +113,7 @@ Para executar o script integralmente em modo não interativo, verifique a chamad
 - **Pedroza, C. (2006).** A Bayesian forecasting model: predicting U.S. male mortality. *Biostatistics*, 7(4), 530–550.
 - **Human Mortality Database.** https://www.mortality.org/
 - **BayesMortalityPlus:** pacote R utilizado para a implementação bayesiana do Lee–Carter.
+- **SILVA, L. M. F.; FIGUEIREDO, L. F. V.; LOBO, V. G. R.; FONSECA, T. C. O.; ALVES, M. B.** “BayesMortality- Plus: A Package in R for Bayesian Mortality Modeling”. Journal of Statistical Software, v. 113, n. 9, 2025. DOI: https://doi.org/10.18637/jss.v113.i09
 
 ## Citação do artigo
 
